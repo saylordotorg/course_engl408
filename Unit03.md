@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Early Modernist Movements: Symbolism, Imagism, and Their
 Relatives** <span id="3"></span> 
 

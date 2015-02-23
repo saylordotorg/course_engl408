@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../../../
+previous: ../Unit07
+---
 **Unit 8: Poetic Responses to World War II, the Holocaust, and the
 Global Nuclear Threat** <span id="8"></span> 
 

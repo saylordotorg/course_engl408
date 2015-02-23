@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Poetry of World War I and Its Aftermath** <span
 id="4"></span> 
 *While poets experimented with new poetic forms and styles, Europe was

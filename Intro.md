@@ -1,4 +1,11 @@
-Course Syllabus for "ENGL408: Modern Poetry and Poetics "
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "ENGL408: Modern Poetry and Poetics"
 ---------------------------------------------------------
 
 The decades between roughly 1890 and 1960 witnessed unprecedented

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: The Province of Modern Poetry** <span id="1"></span> 
 *This course will attempt to snake its way chronologically through the
 poetry produced in the first half of the 20<sup>th</sup> century under

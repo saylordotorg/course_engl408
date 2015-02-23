@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: High Modernism** <span id="6"></span> 
 *The literary aesthetic of* High Modernism*,* *which represented the
 ways modernity was transforming culture by experimenting with, adapting,

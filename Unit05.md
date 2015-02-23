@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ENGL408: Modern Poetry and Poetics"
+course_description: "An introduction to American and English poetry of the early to middle 20th centuries, with particular emphasis on the cultural and political context of the era’s poetry."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Other Modernist Movements: Futurism, Vorticism, and
 Objectivism** <span id="5"></span> 
 *In this unit, you will study a sampling of the manifestos behind the
