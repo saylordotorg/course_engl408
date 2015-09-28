@@ -231,3 +231,4 @@ your final exam.
 - [Unit 6](https://legacy.saylor.org/engl408/Unit06/)
 - [Unit 7](https://legacy.saylor.org/engl408/Unit07/)
 - [Unit 8](https://legacy.saylor.org/engl408/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL408/ENGL408-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ENGL/ENGL408/ENGL408-FinalExam-Answers.html)
