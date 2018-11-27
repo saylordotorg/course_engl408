@@ -383,14 +383,14 @@ id="6.7"></span> 
 **Unit 6 Assessment** <span id="6.9"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 6 Assessment”**
     Link: The Saylor Foundation’s [“Unit 6
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL408-Unit-6-Assessment-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Unit-6-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Consider the essay prompts for this assessment, and
     craft an essay founded on your readings from this unit. After
     writing your essay, use the [“Rubric for Effectively Written
     College-Level
-    Essays”](http://www.saylor.org/site/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
+    Essays”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
     (PDF) to self-evaluate your writing.  
         
      Tips and Suggestions: If you have an ePortfolio account, then it
