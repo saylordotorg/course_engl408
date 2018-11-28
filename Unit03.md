@@ -686,14 +686,14 @@ id="3.9"></span> 
 **Unit 3 Assessment** <span id="3.9.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 3 Assessment”**
     Link: The Saylor Foundation’s [“Unit 3
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Unit-3-Assessment-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL408-Unit-3-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Consider the essay prompts for this assessment, and
     craft an essay founded on your readings from this unit. After
     writing your essay, use the [“Rubric for Effectively Written
     College-Level
-    Essays”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
+    Essays”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
     (PDF) to self-evaluate your writing.  
         
      Tips and Suggestions: If you have an ePortfolio account, then it
