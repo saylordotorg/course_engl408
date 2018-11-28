@@ -195,7 +195,7 @@ id="4.4"></span> 
 -   **Reading: Siegfried Sassoon’s “Repression of War Experience” and
     “The Rear-Guard”**
     Link: : Siegfried Sassoon’s [“Repression of War
-    Experience”](https://resources.saylor.org/archived/wp-content/uploads/2014/06/ENGL408-Repression-of-War-Experience.pdf) (HTML)
+    Experience”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/06/ENGL408-Repression-of-War-Experience.pdf) (HTML)
     and [“The
     Rear-Guard”](http://appoetryproject.blogspot.com/2005/03/rear-guard-siegfried-sassoon.html) (HTML)  
         
@@ -441,14 +441,14 @@ id="4.4"></span> 
 **Unit 4 Assessment** <span id="4.6"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 4 Assessment”**
     Link: The Saylor Foundation’s [“Unit 4
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Unit-4-Assessment-FINAL.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL408-Unit-4-Assessment-FINAL.pdf)
     (PDF)  
         
      Instructions: Consider the essay prompts for this assessment, and
     craft an essay founded on your readings from this unit. After
     writing your essay, use the [“Rubric for Effectively Written
     College-Level
-    Essays”](https://resources.saylor.org/archived/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
+    Essays”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/06/ENGL408-Rubric-for-Effectively-Written-College-Level-Essays-FINAL.pdf)
     (PDF) to self-evaluate your writing.  
         
      Tips and Suggestions: If you have an ePortfolio account, then it
